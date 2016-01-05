@@ -1,2 +1,2 @@
 # Auroraceratops
-Auroraceratops is project for bitcoin wallet 
+Auroraceratops is young dinosaur for bitcoin. 
